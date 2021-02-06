@@ -1,5 +1,7 @@
 # calculator
 
+### Made with Vue.js. This was made for my own learning purposes.
+
 ## Project setup
 ```
 npm install
